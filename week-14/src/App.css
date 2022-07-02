@@ -1,0 +1,18 @@
+.App {
+   align-content: center;
+  justify-content: center;
+  
+}
+
+
+.card{
+  align-items: center;
+  width: 500px;
+}
+
+
+.container{
+  justify-content: center;
+  align-content: center;
+  background-color: slategrey;
+}
